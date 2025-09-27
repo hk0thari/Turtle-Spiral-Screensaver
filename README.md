@@ -14,3 +14,5 @@ Method 2: Quick test
 1. Just run: python spiral_screensaver.py
 2. Press Escape or click to exit
 
+[![Preview](https://raw.githubusercontent.com/hk0thari/Turtle-Spiral-Screensaver/main/Preview/preview.gif
+)]
