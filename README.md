@@ -1,4 +1,4 @@
-This is a screensaver made using turtle!
+This is a screensaver made using turtle! Originally made as a school project in 2023
 The screensaver will run in full-screen with black background and white spirals (can be configured!)
 There are two ways to use it:
 
