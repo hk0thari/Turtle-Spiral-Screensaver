@@ -120,7 +120,7 @@ class SpiralScreensaver:
                     # Draw the spiral
                     while length < self.config["max_length"] * step and self.running:
                         self.turtle_obj.forward(length)
-                        self.turtle_obj.right(angle / 4)
+                        self.turtle_obj.right(angle * angle_step)
                         length += step
 
                     if self.running:
